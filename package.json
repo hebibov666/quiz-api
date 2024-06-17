@@ -1,0 +1,29 @@
+{
+  "name": "quiz-api",
+  "version": "1.0.0",
+  "description": "this is api project",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hebibov666/quiz-api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "ismyil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hebibov666/quiz-api/issues"
+  },
+  "homepage": "https://github.com/hebibov666/quiz-api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0",
+    "mongoose": "^8.4.1"
+  }
+}
